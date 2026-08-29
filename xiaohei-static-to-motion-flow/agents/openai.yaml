@@ -1,0 +1,7 @@
+interface:
+  display_name: "小黑配图静态转动态流程 skill"
+  short_description: "从口播、分镜到小黑图生视频提示词交付"
+  default_prompt: "使用 $xiaohei-static-to-motion-flow，把这张小黑配图规划成稳定的动态视频。"
+
+policy:
+  allow_implicit_invocation: false
